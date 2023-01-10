@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@rdfjs/data-model": "^2.0.1",
+    "@rdfjs/types": "^1.1.0",
+    "n3": "^1.16.3",
+    "parse-link-header": "^2.0.0",
+    "rdf-serialize": "^2.0.1",
+    "stream-to-string": "^1.2.0",
+    "streamify-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/parse-link-header": "^2.0.0"
+  }
+}
